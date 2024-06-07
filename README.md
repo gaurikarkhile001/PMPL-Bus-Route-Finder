@@ -41,6 +41,7 @@ The PMPL Bus Route Finder is a Java-based graphical user interface (GUI) applica
 
 ## Screenshots
 
+(https://github.com/gaurikarkhile001/PMPL-Bus-Route-Finder/assets/168342898/254f1bd6-5dda-410d-a699-cae58277b7e6)
 
 
 ## Dependencies
@@ -58,5 +59,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please contact [gaurikarkhile12@gmail.com].
+For any questions or feedback, please contact [gaurikarkhile1@gmail.com].
 
