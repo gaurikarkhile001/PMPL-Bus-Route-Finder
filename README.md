@@ -69,7 +69,7 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 
 This project was developed as part of a Data Structure and Algorithm course.
-Special thanks to Shweta Bhosale and chinmay kulkarni for her invaluable contributions to the project.
+Special thanks to Shweta Bhosale and chinmay kulkarni for invaluable contributions to the project.
 
 
 ## Contact
