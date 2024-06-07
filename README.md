@@ -47,13 +47,27 @@ The PMPL Bus Route Finder is a Java-based graphical user interface (GUI) applica
 - Java Swing for the GUI.
 - Basic data structures for managing the graph and finding the shortest path.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+## Contribution Guidelines
+
+Contributions to the project are welcome! If you'd like to contribute, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Commit your changes and push the branch to your fork.
+Submit a pull request, explaining the changes you've made.
+
 
 ## License
 
 This project is licensed under the MIT License.
+
+
+## Acknowledgements
+
+This project was developed as part of a Data Structure and Algorithm course.
+Special thanks to Shweta Bhosale and chinmay kulkarni for her invaluable contributions to the project.
+
 
 ## Contact
 
