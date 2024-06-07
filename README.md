@@ -53,8 +53,11 @@ The PMPL Bus Route Finder is a Java-based graphical user interface (GUI) applica
 Contributions to the project are welcome! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
+
 Create a new branch for your feature or bug fix.
+
 Commit your changes and push the branch to your fork.
+
 Submit a pull request, explaining the changes you've made.
 
 
